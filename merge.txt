@@ -1,1 +1,2 @@
 "we are commiting the initial content"totally different merge.txt
+merge of new branch
