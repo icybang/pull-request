@@ -1,1 +1,1 @@
-"we are commiting the initial content"
+"we are commiting the initial content"totally different merge.txt
